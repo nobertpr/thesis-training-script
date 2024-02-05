@@ -1,6 +1,6 @@
 # thesis-training-script
 
-This is a repository containing all the training scripts used for my thesis. The [LandCoverAI]](https://landcover.ai.linuxpolska.com/) dataset was used to train the models.
+This is a repository containing all the training scripts used for my thesis. The [LandCoverAI](https://landcover.ai.linuxpolska.com/) dataset was used to train the models.
 
 Architectures:
 - [UNet](https://arxiv.org/abs/1505.04597)
